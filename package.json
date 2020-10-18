@@ -1,0 +1,22 @@
+{
+  "name": "jun",
+  "version": "1.0.0",
+  "description": "\u001b[Ca function library based on jquery",
+  "main": "jun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl15988/jun.git"
+  },
+  "keywords": [
+    "jun"
+  ],
+  "author": "jl15988",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jl15988/jun/issues"
+  },
+  "homepage": "https://github.com/jl15988/jun#readme"
+}
